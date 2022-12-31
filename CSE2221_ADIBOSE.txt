@@ -1,0 +1,14 @@
+Name of the student : ADI BOSE 
+Class Roll of the student : 21 
+Stream of the student : CSE 
+Your Student ID is : CSE2221
+
+Marks obtained in Math is : 99 
+Marks obtained in Python is : 100 
+Marks obtained in Physics is : 100 
+Marks obtained in Chemistry is : 95 
+Marks obtained in Biology is : 95 
+Marks obtained in English is : 97 
+
+You have got 586 in total with 97%
+Outstanding Performance... You have passed the exam with grade A.

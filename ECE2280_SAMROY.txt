@@ -1,0 +1,14 @@
+Name of the student : SAM ROY 
+Class Roll of the student : 80 
+Stream of the student : ECE 
+Your Student ID is : ECE2280
+
+Marks obtained in Math is : 100 
+Marks obtained in Python is : 98 
+Marks obtained in Physics is : 89 
+Marks obtained in Chemistry is : 97 
+Marks obtained in Biology is : 99 
+Marks obtained in English is : 95 
+
+You have got 578 in total with 96.3%
+Outstanding Performance... You have passed the exam with grade A.

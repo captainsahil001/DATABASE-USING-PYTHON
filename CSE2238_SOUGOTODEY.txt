@@ -1,0 +1,14 @@
+Name of the student : SOUGOTO DEY 
+Class Roll of the student : 38 
+Stream of the student : CSE 
+Your Student ID is : CSE2238
+
+Marks obtained in Math is : 99 
+Marks obtained in Python is : 98 
+Marks obtained in Physics is : 96 
+Marks obtained in Chemistry is : 95 
+Marks obtained in Biology is : 98 
+Marks obtained in English is : 99 
+
+You have got 585 in total with 97%
+Outstanding Performance... You have passed the exam with grade A.

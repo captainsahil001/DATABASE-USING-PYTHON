@@ -1,0 +1,14 @@
+Name of the student : DEV SINGH 
+Class Roll of the student : 10 
+Stream of the student : IT 
+Your Student ID is : IT2210
+
+Marks obtained in Math is : 100 
+Marks obtained in Python is : 100 
+Marks obtained in Physics is : 100 
+Marks obtained in Chemistry is : 92 
+Marks obtained in Biology is : 90 
+Marks obtained in English is : 90 
+
+You have got 572 in total with 95.3%
+Outstanding Performance... You have passed the exam with grade A.
